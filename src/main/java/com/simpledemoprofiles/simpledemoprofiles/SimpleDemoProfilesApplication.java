@@ -9,6 +9,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class SimpleDemoProfilesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleDemoProfilesApplication.class, args);
+		SpringApplication.run(SimpleDemoProfilesApplication.class, args)
 	}
 }
